@@ -1,4 +1,8 @@
 This is my project 
 Project is located
 Project work
+<<<<<<< HEAD
 blue
+=======
+red
+>>>>>>> 85b572c (cpde)
