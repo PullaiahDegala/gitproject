@@ -1,0 +1,5 @@
+This is my project 
+Project is located
+Project work
+<<<<<<< HEAD
+blue
